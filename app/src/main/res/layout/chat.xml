@@ -17,7 +17,7 @@
             android:background="@drawable/bubble_green"
             android:padding="10dip"
             android:text="Hello"
-            android:textColor="@android:color/primary_text_dark"/>
+            android:textColor="@android:color/black"/>
 
     </LinearLayout>
 
